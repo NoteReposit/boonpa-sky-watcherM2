@@ -36,7 +36,7 @@ const WeatherList = () => {
       />
 
       {/* รายงานสภาพอากาศ */}
-      <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-5">
+      <ul className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6 mb-5">
         {filteredStations.map((station, index) => (
           <li key={index} className="bg-white shadow-md rounded-2xl p-4">
             <Link

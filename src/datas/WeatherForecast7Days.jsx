@@ -7,7 +7,7 @@ export const WeatherForecast7Days = [
       "Title": "Weather Forecast 7 Days",
       "Description": "Weather forecast of Thailand for seven days in advance.",
       "Uri": "https://data.tmd.go.th/api/WeatherForecast7Days/v2/index.php",
-      "LastBuildDate": "2024-10-13 21:48:44",
+      "LastBuildDate": "2024-10-14 23:28:19",
       "CopyRight": "Thai Meteorological Department:2565",
       "Generator": "TMDData_API Services",
       "status": "200 OK"
@@ -19,22 +19,22 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Chiang Rai",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "32.0",
+              "32.0",
               "33.0",
               "33.0",
               "33.0",
               "33.0",
-              "33.0",
-              "33.0",
-              "32.0"
+              "33.0"
             ],
             "MinimumTemperature": [
               "23.0",
@@ -42,8 +42,8 @@ export const WeatherForecast7Days = [
               "23.0",
               "23.0",
               "23.0",
-              "22.0",
-              "22.0"
+              "23.0",
+              "23.0"
             ],
             "WindDirection": [
               "140",
@@ -64,13 +64,13 @@ export const WeatherForecast7Days = [
               "5"
             ],
             "PercentRainCover": [
+              "20",
+              "20",
               "10",
               "10",
               "10",
               "10",
-              "10",
-              "10",
-              "10"
+              "20"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -115,29 +115,29 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Chiang Mai",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "34.0",
-              "34.0",
-              "34.0",
-              "34.0",
+              "33.0",
               "34.0",
               "35.0",
+              "35.0",
+              "35.0",
+              "34.0",
               "34.0"
             ],
             "MinimumTemperature": [
+              "24.0",
               "25.0",
               "25.0",
               "25.0",
-              "25.0",
-              "25.0",
+              "24.0",
               "24.0",
               "24.0"
             ],
@@ -160,13 +160,13 @@ export const WeatherForecast7Days = [
               "5"
             ],
             "PercentRainCover": [
+              "30",
               "20",
               "20",
               "20",
               "20",
-              "10",
-              "20",
-              "20"
+              "30",
+              "30"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -211,13 +211,13 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Mae Hong Son",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "34.0",
@@ -226,7 +226,7 @@ export const WeatherForecast7Days = [
               "34.0",
               "34.0",
               "34.0",
-              "33.0"
+              "34.0"
             ],
             "MinimumTemperature": [
               "24.0",
@@ -234,7 +234,7 @@ export const WeatherForecast7Days = [
               "24.0",
               "24.0",
               "24.0",
-              "24.0",
+              "23.0",
               "23.0"
             ],
             "WindDirection": [
@@ -259,9 +259,9 @@ export const WeatherForecast7Days = [
               "30",
               "30",
               "30",
+              "30",
               "20",
-              "10",
-              "10",
+              "20",
               "20"
             ],
             "DescriptionThai": [
@@ -307,22 +307,22 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Tak",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "33.0",
               "34.0",
               "34.0",
               "35.0",
               "35.0",
               "34.0",
-              "34.0",
-              "33.0"
+              "34.0"
             ],
             "MinimumTemperature": [
               "25.0",
@@ -330,8 +330,8 @@ export const WeatherForecast7Days = [
               "25.0",
               "25.0",
               "25.0",
-              "25.0",
-              "25.0"
+              "24.0",
+              "24.0"
             ],
             "WindDirection": [
               "140",
@@ -354,11 +354,11 @@ export const WeatherForecast7Days = [
             "PercentRainCover": [
               "40",
               "40",
+              "40",
               "20",
               "20",
               "20",
-              "20",
-              "30"
+              "20"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -403,22 +403,22 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Nan",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "33.0",
               "34.0",
-              "34.0",
-              "34.0",
-              "34.0",
-              "34.0",
-              "34.0",
-              "34.0"
+              "35.0",
+              "35.0",
+              "35.0",
+              "35.0",
+              "35.0"
             ],
             "MinimumTemperature": [
               "24.0",
@@ -426,8 +426,8 @@ export const WeatherForecast7Days = [
               "24.0",
               "24.0",
               "24.0",
-              "23.0",
-              "23.0"
+              "24.0",
+              "24.0"
             ],
             "WindDirection": [
               "140",
@@ -448,13 +448,13 @@ export const WeatherForecast7Days = [
               "5"
             ],
             "PercentRainCover": [
+              "20",
+              "20",
               "10",
               "10",
               "10",
               "10",
-              "10",
-              "10",
-              "10"
+              "20"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -499,22 +499,22 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Uttaradit",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "34.0",
+              "34.0",
               "35.0",
-              "35.0",
-              "35.0",
-              "35.0",
-              "35.0",
-              "35.0",
-              "35.0"
+              "36.0",
+              "36.0",
+              "36.0",
+              "36.0"
             ],
             "MinimumTemperature": [
               "25.0",
@@ -523,7 +523,7 @@ export const WeatherForecast7Days = [
               "25.0",
               "25.0",
               "25.0",
-              "25.0"
+              "26.0"
             ],
             "WindDirection": [
               "140",
@@ -544,9 +544,9 @@ export const WeatherForecast7Days = [
               "5"
             ],
             "PercentRainCover": [
+              "30",
+              "30",
               "20",
-              "20",
-              "10",
               "10",
               "10",
               "10",
@@ -595,21 +595,21 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Phitsanulok",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "33.0",
+              "33.0",
               "34.0",
               "34.0",
               "34.0",
               "34.0",
-              "34.0",
-              "35.0",
               "34.0"
             ],
             "MinimumTemperature": [
@@ -640,13 +640,13 @@ export const WeatherForecast7Days = [
               "5"
             ],
             "PercentRainCover": [
-              "30",
+              "40",
+              "40",
               "30",
               "30",
               "20",
-              "10",
-              "10",
-              "20"
+              "20",
+              "30"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -691,21 +691,21 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Kamphaeng Phet",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "33.0",
               "34.0",
               "34.0",
               "35.0",
               "35.0",
               "35.0",
-              "34.0",
               "34.0"
             ],
             "MinimumTemperature": [
@@ -738,11 +738,11 @@ export const WeatherForecast7Days = [
             "PercentRainCover": [
               "40",
               "40",
+              "40",
               "20",
-              "10",
               "20",
               "20",
-              "30"
+              "20"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -787,22 +787,22 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Pichit",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "33.0",
+              "33.0",
               "34.0",
               "34.0",
               "34.0",
               "34.0",
-              "34.0",
-              "34.0",
-              "35.0"
+              "34.0"
             ],
             "MinimumTemperature": [
               "26.0",
@@ -834,7 +834,7 @@ export const WeatherForecast7Days = [
             "PercentRainCover": [
               "40",
               "40",
-              "20",
+              "40",
               "20",
               "20",
               "20",
@@ -883,22 +883,22 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Sukhothai",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "34.0",
+              "33.0",
+              "33.0",
               "34.0",
               "34.0",
               "34.0",
               "35.0",
-              "35.0",
-              "34.0"
+              "35.0"
             ],
             "MinimumTemperature": [
               "26.0",
@@ -928,13 +928,13 @@ export const WeatherForecast7Days = [
               "5"
             ],
             "PercentRainCover": [
-              "30",
+              "40",
+              "40",
               "30",
               "30",
               "20",
-              "10",
-              "10",
-              "30"
+              "20",
+              "20"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -979,31 +979,31 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Phayao",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "33.0",
               "33.0",
-              "34.0",
+              "33.0",
               "34.0",
               "34.0",
               "34.0",
               "34.0"
             ],
             "MinimumTemperature": [
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0",
-              "22.0",
-              "22.0"
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0"
             ],
             "WindDirection": [
               "140",
@@ -1024,13 +1024,13 @@ export const WeatherForecast7Days = [
               "5"
             ],
             "PercentRainCover": [
+              "20",
+              "20",
               "10",
               "10",
               "10",
               "10",
-              "10",
-              "10",
-              "10"
+              "20"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -1075,21 +1075,21 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Lamphun",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "33.0",
+              "33.0",
               "34.0",
               "34.0",
               "34.0",
               "34.0",
-              "34.0",
-              "35.0",
               "34.0"
             ],
             "MinimumTemperature": [
@@ -1120,13 +1120,13 @@ export const WeatherForecast7Days = [
               "5"
             ],
             "PercentRainCover": [
+              "30",
+              "30",
               "20",
               "20",
               "20",
-              "10",
-              "10",
-              "10",
-              "20"
+              "20",
+              "30"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -1171,22 +1171,22 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Lampang",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "35.0",
-              "35.0",
-              "35.0",
-              "35.0",
-              "35.0",
               "34.0",
-              "33.0"
+              "34.0",
+              "35.0",
+              "35.0",
+              "35.0",
+              "35.0",
+              "35.0"
             ],
             "MinimumTemperature": [
               "24.0",
@@ -1216,13 +1216,13 @@ export const WeatherForecast7Days = [
               "5"
             ],
             "PercentRainCover": [
+              "30",
+              "30",
               "20",
               "20",
               "20",
-              "10",
-              "10",
-              "10",
-              "20"
+              "20",
+              "30"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -1267,21 +1267,21 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Phrae",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "33.0",
+              "33.0",
               "34.0",
               "34.0",
               "34.0",
               "34.0",
-              "34.0",
-              "35.0",
               "34.0"
             ],
             "MinimumTemperature": [
@@ -1312,13 +1312,13 @@ export const WeatherForecast7Days = [
               "5"
             ],
             "PercentRainCover": [
+              "30",
+              "30",
               "10",
               "10",
               "10",
               "10",
-              "10",
-              "10",
-              "10"
+              "20"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -1363,22 +1363,22 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Phetchabun",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "34.0",
-              "34.0",
-              "34.0",
-              "34.0",
+              "33.0",
+              "33.0",
               "34.0",
               "35.0",
-              "34.0"
+              "35.0",
+              "35.0",
+              "35.0"
             ],
             "MinimumTemperature": [
               "25.0",
@@ -1386,8 +1386,8 @@ export const WeatherForecast7Days = [
               "25.0",
               "25.0",
               "25.0",
-              "24.0",
-              "24.0"
+              "25.0",
+              "25.0"
             ],
             "WindDirection": [
               "140",
@@ -1408,12 +1408,12 @@ export const WeatherForecast7Days = [
               "5"
             ],
             "PercentRainCover": [
-              "30",
+              "40",
+              "40",
               "30",
               "30",
               "30",
               "20",
-              "30",
               "20"
             ],
             "DescriptionThai": [
@@ -1459,25 +1459,25 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Nong Khai",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "32.0",
+              "31.0",
               "31.0",
               "32.0",
-              "33.0",
-              "34.0",
               "34.0",
               "34.0",
               "34.0"
             ],
             "MinimumTemperature": [
-              "25.0",
+              "24.0",
               "25.0",
               "25.0",
               "25.0",
@@ -1487,11 +1487,11 @@ export const WeatherForecast7Days = [
             ],
             "WindDirection": [
               "130",
+              "130",
               "120",
               "120",
               "100",
               "100",
-              "90",
               "90"
             ],
             "WindSpeed": [
@@ -1499,17 +1499,17 @@ export const WeatherForecast7Days = [
               "8",
               "8",
               "8",
-              "9",
+              "8",
               "9",
               "9"
             ],
             "PercentRainCover": [
+              "30",
               "40",
               "30",
               "10",
-              "10",
               "5",
-              "0",
+              "5",
               "0"
             ],
             "DescriptionThai": [
@@ -1518,7 +1518,7 @@ export const WeatherForecast7Days = [
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
-              "ท้องฟ้ามีเมฆบางส่วน",
+              "ฝน",
               "ท้องฟ้ามีเมฆบางส่วน"
             ],
             "DescriptionEnglish": [
@@ -1527,25 +1527,25 @@ export const WeatherForecast7Days = [
               "Heavy Rain",
               "Heavy Rain",
               "Heavy Rain",
-              "Partly Cloudy",
+              "Rain",
               "Partly Cloudy"
             ],
             "TemperatureThai": [
               "ปกติ",
               "ปกติ",
               "ปกติ",
-              "เย็น",
-              "เย็น",
               "ปกติ",
+              "เย็น",
+              "เย็น",
               "ปกติ"
             ],
             "TemperatureEnglish": [
               "Normal",
               "Normal",
               "Normal",
-              "Cool",
-              "Cool",
               "Normal",
+              "Cool",
+              "Cool",
               "Normal"
             ]
           }
@@ -1555,39 +1555,39 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Loei",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "30.0",
+              "30.0",
               "31.0",
               "32.0",
-              "33.0",
-              "33.0",
-              "33.0",
-              "33.0"
+              "34.0",
+              "34.0",
+              "34.0"
             ],
             "MinimumTemperature": [
+              "22.0",
               "23.0",
               "23.0",
-              "22.0",
-              "22.0",
+              "23.0",
               "23.0",
               "23.0",
               "23.0"
             ],
             "WindDirection": [
               "130",
+              "130",
               "120",
               "120",
               "100",
               "100",
-              "90",
               "90"
             ],
             "WindSpeed": [
@@ -1595,18 +1595,18 @@ export const WeatherForecast7Days = [
               "8",
               "8",
               "8",
-              "9",
+              "8",
               "9",
               "9"
             ],
             "PercentRainCover": [
+              "30",
               "40",
               "30",
               "10",
               "10",
-              "10",
-              "10",
-              "10"
+              "5",
+              "5"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -1614,8 +1614,8 @@ export const WeatherForecast7Days = [
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง"
+              "ฝน",
+              "ฝน"
             ],
             "DescriptionEnglish": [
               "Heavy Rain",
@@ -1623,8 +1623,8 @@ export const WeatherForecast7Days = [
               "Heavy Rain",
               "Heavy Rain",
               "Heavy Rain",
-              "Heavy Rain",
-              "Heavy Rain"
+              "Rain",
+              "Rain"
             ],
             "TemperatureThai": [
               "เย็น",
@@ -1651,114 +1651,18 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Khon Kaen",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "29.0",
-              "31.0",
+              "33.0",
+              "34.0",
               "32.0",
-              "33.0",
-              "33.0",
-              "33.0",
-              "33.0"
-            ],
-            "MinimumTemperature": [
-              "24.0",
-              "24.0",
-              "24.0",
-              "24.0",
-              "24.0",
-              "23.0",
-              "22.0"
-            ],
-            "WindDirection": [
-              "130",
-              "120",
-              "120",
-              "100",
-              "100",
-              "90",
-              "90"
-            ],
-            "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "9",
-              "9",
-              "9"
-            ],
-            "PercentRainCover": [
-              "40",
-              "30",
-              "10",
-              "10",
-              "5",
-              "5",
-              "5"
-            ],
-            "DescriptionThai": [
-              "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง"
-            ],
-            "DescriptionEnglish": [
-              "Heavy Rain",
-              "Heavy Rain",
-              "Heavy Rain",
-              "Heavy Rain",
-              "Heavy Rain",
-              "Heavy Rain",
-              "Heavy Rain"
-            ],
-            "TemperatureThai": [
-              "ปกติ",
-              "ปกติ",
-              "ปกติ",
-              "ปกติ",
-              "ปกติ",
-              "เย็น",
-              "เย็น"
-            ],
-            "TemperatureEnglish": [
-              "Normal",
-              "Normal",
-              "Normal",
-              "Normal",
-              "Normal",
-              "Cool",
-              "Cool"
-            ]
-          }
-        },
-        {
-          "ProvinceNameThai": "อุบลราชธานี",
-          "ProvinceNameEnglish": "Ubon Ratcha Thani",
-          "SevenDaysForecast": {
-            "ForecastDate": [
-              "19/10/2024",
-              "18/10/2024",
-              "17/10/2024",
-              "16/10/2024",
-              "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
-            ],
-            "MaximumTemperature": [
-              "34.0",
-              "33.0",
-              "34.0",
               "33.0",
               "34.0",
               "34.0",
@@ -1770,34 +1674,130 @@ export const WeatherForecast7Days = [
               "24.0",
               "24.0",
               "24.0",
-              "25.0",
+              "24.0",
               "24.0"
             ],
             "WindDirection": [
+              "130",
+              "130",
+              "120",
+              "120",
+              "100",
+              "100",
+              "90"
+            ],
+            "WindSpeed": [
+              "8",
+              "8",
+              "8",
+              "8",
+              "8",
+              "9",
+              "9"
+            ],
+            "PercentRainCover": [
+              "30",
+              "40",
+              "30",
+              "10",
+              "10",
+              "5",
+              "0"
+            ],
+            "DescriptionThai": [
+              "ฝนฟ้าคะนอง",
+              "ฝนฟ้าคะนอง",
+              "ฝนฟ้าคะนอง",
+              "ฝนฟ้าคะนอง",
+              "ฝนฟ้าคะนอง",
+              "ฝนฟ้าคะนอง",
+              "ท้องฟ้ามีเมฆบางส่วน"
+            ],
+            "DescriptionEnglish": [
+              "Heavy Rain",
+              "Heavy Rain",
+              "Heavy Rain",
+              "Heavy Rain",
+              "Heavy Rain",
+              "Heavy Rain",
+              "Partly Cloudy"
+            ],
+            "TemperatureThai": [
+              "ปกติ",
+              "ปกติ",
+              "ปกติ",
+              "ปกติ",
+              "ปกติ",
+              "ปกติ",
+              "เย็น"
+            ],
+            "TemperatureEnglish": [
+              "Normal",
+              "Normal",
+              "Normal",
+              "Normal",
+              "Normal",
+              "Normal",
+              "Cool"
+            ]
+          }
+        },
+        {
+          "ProvinceNameThai": "อุบลราชธานี",
+          "ProvinceNameEnglish": "Ubon Ratcha Thani",
+          "SevenDaysForecast": {
+            "ForecastDate": [
+              "20/10/2024",
+              "19/10/2024",
+              "18/10/2024",
+              "17/10/2024",
+              "16/10/2024",
+              "15/10/2024",
+              "14/10/2024"
+            ],
+            "MaximumTemperature": [
+              "33.0",
+              "34.0",
+              "33.0",
+              "34.0",
+              "33.0",
+              "34.0",
+              "34.0"
+            ],
+            "MinimumTemperature": [
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "25.0"
+            ],
+            "WindDirection": [
+              "50",
               "120",
               "120",
               "100",
               "90",
               "90",
-              "50",
               "50"
             ],
             "WindSpeed": [
-              "5",
-              "5",
-              "6",
-              "6",
-              "6",
               "7",
-              "8"
+              "5",
+              "5",
+              "6",
+              "6",
+              "6",
+              "7"
             ],
             "PercentRainCover": [
+              "20",
               "30",
               "30",
               "20",
               "20",
               "20",
-              "10",
               "10"
             ],
             "DescriptionThai": [
@@ -1843,21 +1843,21 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Nakhon Ratchasima",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "32.0",
               "33.0",
               "33.0",
               "34.0",
               "34.0",
               "35.0",
-              "34.0",
               "34.0"
             ],
             "MinimumTemperature": [
@@ -1865,36 +1865,36 @@ export const WeatherForecast7Days = [
               "23.0",
               "23.0",
               "23.0",
-              "24.0",
+              "23.0",
               "24.0",
               "24.0"
             ],
             "WindDirection": [
+              "50",
               "120",
               "120",
               "100",
               "90",
               "90",
-              "50",
               "50"
             ],
             "WindSpeed": [
+              "6",
               "5",
               "6",
               "6",
               "6",
               "6",
-              "7",
               "7"
             ],
             "PercentRainCover": [
+              "40",
               "60",
               "40",
               "30",
               "20",
               "10",
-              "10",
-              "20"
+              "10"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -1939,22 +1939,22 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Roi Et",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "34.0",
               "34.0",
               "33.0",
               "34.0",
               "34.0",
               "34.0",
-              "35.0",
-              "34.0"
+              "35.0"
             ],
             "MinimumTemperature": [
               "24.0",
@@ -1966,31 +1966,31 @@ export const WeatherForecast7Days = [
               "24.0"
             ],
             "WindDirection": [
+              "50",
               "120",
               "120",
               "100",
               "90",
               "90",
-              "50",
               "50"
             ],
             "WindSpeed": [
-              "5",
-              "5",
-              "5",
-              "6",
-              "6",
               "7",
+              "5",
+              "5",
+              "5",
+              "6",
+              "6",
               "7"
             ],
             "PercentRainCover": [
+              "20",
               "30",
               "30",
               "20",
               "20",
               "10",
-              "0",
-              "5"
+              "0"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -1998,8 +1998,8 @@ export const WeatherForecast7Days = [
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
-              "ท้องฟ้าโปร่ง",
-              "ฝนฟ้าคะนอง"
+              "ฝนฟ้าคะนอง",
+              "ท้องฟ้าโปร่ง"
             ],
             "DescriptionEnglish": [
               "Heavy Rain",
@@ -2007,8 +2007,8 @@ export const WeatherForecast7Days = [
               "Heavy Rain",
               "Heavy Rain",
               "Heavy Rain",
-              "Clear",
-              "Heavy Rain"
+              "Heavy Rain",
+              "Clear"
             ],
             "TemperatureThai": [
               "ปกติ",
@@ -2035,20 +2035,20 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Mookdahan",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "33.0",
-              "34.0",
               "34.0",
               "33.0",
               "34.0",
+              "34.0",
+              "33.0",
               "34.0",
               "34.0"
             ],
@@ -2062,30 +2062,30 @@ export const WeatherForecast7Days = [
               "24.0"
             ],
             "WindDirection": [
+              "50",
               "120",
               "120",
               "100",
               "90",
               "90",
-              "50",
               "50"
             ],
             "WindSpeed": [
+              "7",
               "6",
               "6",
               "5",
               "6",
               "5",
-              "8",
-              "7"
+              "8"
             ],
             "PercentRainCover": [
+              "20",
               "30",
               "30",
               "10",
               "10",
               "10",
-              "0",
               "0"
             ],
             "DescriptionThai": [
@@ -2094,7 +2094,7 @@ export const WeatherForecast7Days = [
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
-              "ท้องฟ้าโปร่ง",
+              "ฝนฟ้าคะนอง",
               "ท้องฟ้าโปร่ง"
             ],
             "DescriptionEnglish": [
@@ -2103,7 +2103,7 @@ export const WeatherForecast7Days = [
               "Heavy Rain",
               "Heavy Rain",
               "Heavy Rain",
-              "Clear",
+              "Heavy Rain",
               "Clear"
             ],
             "TemperatureThai": [
@@ -2131,26 +2131,26 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Udon Thani",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "31.0",
-              "31.0",
+              "30.0",
+              "30.0",
               "32.0",
-              "33.0",
               "33.0",
               "33.0",
               "33.0"
             ],
             "MinimumTemperature": [
-              "25.0",
-              "25.0",
+              "23.0",
+              "24.0",
               "25.0",
               "25.0",
               "25.0",
@@ -2159,11 +2159,11 @@ export const WeatherForecast7Days = [
             ],
             "WindDirection": [
               "130",
+              "130",
               "120",
               "120",
               "100",
               "100",
-              "90",
               "90"
             ],
             "WindSpeed": [
@@ -2171,14 +2171,14 @@ export const WeatherForecast7Days = [
               "8",
               "8",
               "8",
-              "9",
+              "8",
               "9",
               "9"
             ],
             "PercentRainCover": [
+              "30",
               "40",
               "30",
-              "10",
               "10",
               "5",
               "0",
@@ -2227,25 +2227,25 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Nong Bua Lam Phu",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "32.0",
+              "30.0",
               "30.0",
               "31.0",
-              "32.0",
-              "32.0",
-              "32.0",
-              "32.0",
-              "32.0"
+              "33.0",
+              "33.0",
+              "33.0"
             ],
             "MinimumTemperature": [
-              "24.0",
+              "23.0",
               "24.0",
               "24.0",
               "24.0",
@@ -2255,107 +2255,11 @@ export const WeatherForecast7Days = [
             ],
             "WindDirection": [
               "130",
-              "120",
-              "120",
-              "100",
-              "100",
-              "90",
-              "90"
-            ],
-            "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "9",
-              "9",
-              "9"
-            ],
-            "PercentRainCover": [
-              "40",
-              "30",
-              "10",
-              "10",
-              "5",
-              "5",
-              "0"
-            ],
-            "DescriptionThai": [
-              "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง",
-              "ฝนฟ้าคะนอง",
-              "ท้องฟ้ามีเมฆบางส่วน"
-            ],
-            "DescriptionEnglish": [
-              "Heavy Rain",
-              "Heavy Rain",
-              "Heavy Rain",
-              "Heavy Rain",
-              "Heavy Rain",
-              "Heavy Rain",
-              "Partly Cloudy"
-            ],
-            "TemperatureThai": [
-              "ปกติ",
-              "ปกติ",
-              "ปกติ",
-              "ปกติ",
-              "ปกติ",
-              "ปกติ",
-              "ปกติ"
-            ],
-            "TemperatureEnglish": [
-              "Normal",
-              "Normal",
-              "Normal",
-              "Normal",
-              "Normal",
-              "Normal",
-              "Normal"
-            ]
-          }
-        },
-        {
-          "ProvinceNameThai": "นครพนม",
-          "ProvinceNameEnglish": "Nakhon Phanom",
-          "SevenDaysForecast": {
-            "ForecastDate": [
-              "19/10/2024",
-              "18/10/2024",
-              "17/10/2024",
-              "16/10/2024",
-              "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
-            ],
-            "MaximumTemperature": [
-              "32.0",
-              "31.0",
-              "33.0",
-              "34.0",
-              "34.0",
-              "34.0",
-              "34.0"
-            ],
-            "MinimumTemperature": [
-              "22.0",
-              "22.0",
-              "22.0",
-              "22.0",
-              "22.0",
-              "22.0",
-              "22.0"
-            ],
-            "WindDirection": [
               "130",
               "120",
               "120",
               "100",
               "100",
-              "90",
               "90"
             ],
             "WindSpeed": [
@@ -2363,14 +2267,14 @@ export const WeatherForecast7Days = [
               "8",
               "8",
               "8",
-              "9",
+              "8",
               "9",
               "9"
             ],
             "PercentRainCover": [
+              "30",
               "40",
               "30",
-              "10",
               "10",
               "5",
               "0",
@@ -2392,6 +2296,102 @@ export const WeatherForecast7Days = [
               "Heavy Rain",
               "Heavy Rain",
               "Partly Cloudy",
+              "Partly Cloudy"
+            ],
+            "TemperatureThai": [
+              "เย็น",
+              "ปกติ",
+              "ปกติ",
+              "ปกติ",
+              "ปกติ",
+              "ปกติ",
+              "ปกติ"
+            ],
+            "TemperatureEnglish": [
+              "Cool",
+              "Normal",
+              "Normal",
+              "Normal",
+              "Normal",
+              "Normal",
+              "Normal"
+            ]
+          }
+        },
+        {
+          "ProvinceNameThai": "นครพนม",
+          "ProvinceNameEnglish": "Nakhon Phanom",
+          "SevenDaysForecast": {
+            "ForecastDate": [
+              "20/10/2024",
+              "19/10/2024",
+              "18/10/2024",
+              "17/10/2024",
+              "16/10/2024",
+              "15/10/2024",
+              "14/10/2024"
+            ],
+            "MaximumTemperature": [
+              "32.0",
+              "32.0",
+              "31.0",
+              "33.0",
+              "34.0",
+              "34.0",
+              "34.0"
+            ],
+            "MinimumTemperature": [
+              "23.0",
+              "23.0",
+              "23.0",
+              "23.0",
+              "23.0",
+              "23.0",
+              "23.0"
+            ],
+            "WindDirection": [
+              "130",
+              "130",
+              "120",
+              "120",
+              "100",
+              "100",
+              "90"
+            ],
+            "WindSpeed": [
+              "8",
+              "8",
+              "8",
+              "8",
+              "8",
+              "9",
+              "9"
+            ],
+            "PercentRainCover": [
+              "30",
+              "40",
+              "30",
+              "10",
+              "10",
+              "5",
+              "0"
+            ],
+            "DescriptionThai": [
+              "ฝนฟ้าคะนอง",
+              "ฝนฟ้าคะนอง",
+              "ฝนฟ้าคะนอง",
+              "ฝนฟ้าคะนอง",
+              "ฝนฟ้าคะนอง",
+              "ฝนฟ้าคะนอง",
+              "ท้องฟ้ามีเมฆบางส่วน"
+            ],
+            "DescriptionEnglish": [
+              "Heavy Rain",
+              "Heavy Rain",
+              "Heavy Rain",
+              "Heavy Rain",
+              "Heavy Rain",
+              "Heavy Rain",
               "Partly Cloudy"
             ],
             "TemperatureThai": [
@@ -2419,39 +2419,39 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Sakon Nakhon",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "32.0",
-              "31.0",
+              "32.0",
+              "32.0",
               "32.0",
               "33.0",
               "33.0",
-              "33.0",
-              "33.0"
+              "34.0"
             ],
             "MinimumTemperature": [
-              "24.0",
-              "24.0",
-              "24.0",
-              "24.0",
               "23.0",
-              "23.0",
-              "23.0"
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0"
             ],
             "WindDirection": [
+              "130",
               "130",
               "120",
               "120",
               "100",
               "100",
-              "90",
               "90"
             ],
             "WindSpeed": [
@@ -2459,17 +2459,17 @@ export const WeatherForecast7Days = [
               "8",
               "8",
               "8",
-              "9",
+              "8",
               "9",
               "9"
             ],
             "PercentRainCover": [
+              "30",
               "40",
               "30",
               "10",
               "10",
               "5",
-              "0",
               "0"
             ],
             "DescriptionThai": [
@@ -2478,7 +2478,7 @@ export const WeatherForecast7Days = [
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
-              "ท้องฟ้ามีเมฆบางส่วน",
+              "ฝนฟ้าคะนอง",
               "ท้องฟ้ามีเมฆบางส่วน"
             ],
             "DescriptionEnglish": [
@@ -2487,24 +2487,24 @@ export const WeatherForecast7Days = [
               "Heavy Rain",
               "Heavy Rain",
               "Heavy Rain",
-              "Partly Cloudy",
+              "Heavy Rain",
               "Partly Cloudy"
             ],
             "TemperatureThai": [
-              "ปกติ",
-              "ปกติ",
-              "ปกติ",
-              "ปกติ",
               "เย็น",
+              "ปกติ",
+              "ปกติ",
+              "ปกติ",
+              "ปกติ",
               "เย็น",
               "เย็น"
             ],
             "TemperatureEnglish": [
-              "Normal",
-              "Normal",
-              "Normal",
-              "Normal",
               "Cool",
+              "Normal",
+              "Normal",
+              "Normal",
+              "Normal",
               "Cool",
               "Cool"
             ]
@@ -2515,19 +2515,19 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Maha Sarakham",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "31.0",
+              "31.0",
               "32.0",
               "33.0",
-              "34.0",
               "34.0",
               "34.0",
               "34.0"
@@ -2535,19 +2535,19 @@ export const WeatherForecast7Days = [
             "MinimumTemperature": [
               "24.0",
               "24.0",
-              "24.0",
-              "24.0",
-              "24.0",
-              "24.0",
-              "24.0"
+              "25.0",
+              "25.0",
+              "25.0",
+              "25.0",
+              "25.0"
             ],
             "WindDirection": [
+              "130",
               "130",
               "120",
               "120",
               "100",
               "100",
-              "90",
               "90"
             ],
             "WindSpeed": [
@@ -2555,16 +2555,16 @@ export const WeatherForecast7Days = [
               "8",
               "8",
               "8",
-              "9",
+              "8",
               "9",
               "9"
             ],
             "PercentRainCover": [
+              "30",
               "40",
               "30",
               "10",
               "10",
-              "5",
               "5",
               "5"
             ],
@@ -2611,19 +2611,19 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Kalasin",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "31.0",
               "32.0",
               "33.0",
-              "34.0",
+              "32.0",
+              "33.0",
               "34.0",
               "34.0",
               "34.0"
@@ -2635,15 +2635,15 @@ export const WeatherForecast7Days = [
               "23.0",
               "23.0",
               "23.0",
-              "23.0"
+              "24.0"
             ],
             "WindDirection": [
+              "130",
               "130",
               "120",
               "120",
               "100",
               "100",
-              "90",
               "90"
             ],
             "WindSpeed": [
@@ -2651,17 +2651,17 @@ export const WeatherForecast7Days = [
               "8",
               "8",
               "8",
-              "9",
+              "8",
               "9",
               "9"
             ],
             "PercentRainCover": [
+              "30",
               "40",
               "30",
               "10",
               "10",
               "5",
-              "0",
               "0"
             ],
             "DescriptionThai": [
@@ -2670,7 +2670,7 @@ export const WeatherForecast7Days = [
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
-              "ท้องฟ้ามีเมฆบางส่วน",
+              "ฝนฟ้าคะนอง",
               "ท้องฟ้ามีเมฆบางส่วน"
             ],
             "DescriptionEnglish": [
@@ -2679,7 +2679,7 @@ export const WeatherForecast7Days = [
               "Heavy Rain",
               "Heavy Rain",
               "Heavy Rain",
-              "Partly Cloudy",
+              "Heavy Rain",
               "Partly Cloudy"
             ],
             "TemperatureThai": [
@@ -2707,18 +2707,18 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Chaiyaphum",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "30.0",
+              "30.0",
               "32.0",
-              "33.0",
               "33.0",
               "33.0",
               "33.0",
@@ -2735,11 +2735,11 @@ export const WeatherForecast7Days = [
             ],
             "WindDirection": [
               "130",
+              "130",
               "120",
               "120",
               "100",
               "100",
-              "90",
               "90"
             ],
             "WindSpeed": [
@@ -2747,18 +2747,18 @@ export const WeatherForecast7Days = [
               "8",
               "8",
               "8",
-              "9",
+              "8",
               "9",
               "9"
             ],
             "PercentRainCover": [
+              "30",
               "40",
               "30",
               "10",
               "10",
               "5",
-              "10",
-              "10"
+              "5"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -2803,13 +2803,13 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Sri Saked",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "34.0",
@@ -2817,7 +2817,7 @@ export const WeatherForecast7Days = [
               "34.0",
               "34.0",
               "34.0",
-              "35.0",
+              "34.0",
               "35.0"
             ],
             "MinimumTemperature": [
@@ -2830,30 +2830,30 @@ export const WeatherForecast7Days = [
               "24.0"
             ],
             "WindDirection": [
+              "50",
               "120",
               "120",
               "100",
               "90",
               "90",
-              "50",
               "50"
             ],
             "WindSpeed": [
+              "7",
               "6",
               "5",
               "6",
               "6",
               "6",
-              "7",
               "7"
             ],
             "PercentRainCover": [
+              "30",
               "40",
               "40",
               "30",
               "30",
               "20",
-              "10",
               "10"
             ],
             "DescriptionThai": [
@@ -2899,20 +2899,20 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Yasothon",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "33.0",
+              "33.0",
               "32.0",
               "33.0",
               "32.0",
-              "34.0",
               "34.0",
               "34.0"
             ],
@@ -2922,34 +2922,34 @@ export const WeatherForecast7Days = [
               "23.0",
               "23.0",
               "23.0",
-              "24.0",
-              "23.0"
+              "23.0",
+              "24.0"
             ],
             "WindDirection": [
+              "50",
               "120",
               "120",
               "100",
               "90",
               "90",
-              "50",
               "50"
             ],
             "WindSpeed": [
+              "8",
               "7",
               "5",
               "6",
               "5",
               "6",
-              "7",
               "7"
             ],
             "PercentRainCover": [
+              "20",
               "30",
               "30",
               "20",
               "10",
               "10",
-              "0",
               "0"
             ],
             "DescriptionThai": [
@@ -2958,7 +2958,7 @@ export const WeatherForecast7Days = [
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
-              "ท้องฟ้าโปร่ง",
+              "ฝนฟ้าคะนอง",
               "ท้องฟ้าโปร่ง"
             ],
             "DescriptionEnglish": [
@@ -2967,7 +2967,7 @@ export const WeatherForecast7Days = [
               "Heavy Rain",
               "Heavy Rain",
               "Heavy Rain",
-              "Clear",
+              "Heavy Rain",
               "Clear"
             ],
             "TemperatureThai": [
@@ -2995,57 +2995,57 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Surin",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "34.0",
               "34.0",
-              "35.0",
               "34.0",
               "35.0",
+              "34.0",
               "35.0",
               "35.0"
             ],
             "MinimumTemperature": [
               "23.0",
               "23.0",
-              "24.0",
+              "23.0",
               "24.0",
               "24.0",
               "24.0",
               "24.0"
             ],
             "WindDirection": [
+              "50",
               "120",
               "120",
               "100",
               "90",
               "90",
-              "50",
               "50"
             ],
             "WindSpeed": [
-              "5",
-              "5",
-              "6",
-              "6",
-              "6",
               "7",
-              "8"
+              "5",
+              "5",
+              "6",
+              "6",
+              "6",
+              "7"
             ],
             "PercentRainCover": [
+              "30",
               "40",
               "40",
               "30",
               "30",
               "20",
-              "10",
               "10"
             ],
             "DescriptionThai": [
@@ -3091,13 +3091,13 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Buri Rum",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "32.0",
@@ -3105,44 +3105,44 @@ export const WeatherForecast7Days = [
               "32.0",
               "32.0",
               "32.0",
-              "33.0",
+              "32.0",
               "33.0"
             ],
             "MinimumTemperature": [
               "22.0",
               "22.0",
               "22.0",
-              "23.0",
+              "22.0",
               "23.0",
               "23.0",
               "23.0"
             ],
             "WindDirection": [
+              "50",
               "120",
               "120",
               "100",
               "90",
               "90",
-              "50",
               "50"
             ],
             "WindSpeed": [
+              "8",
               "6",
               "5",
               "5",
               "5",
               "6",
-              "7",
               "7"
             ],
             "PercentRainCover": [
+              "40",
               "60",
               "40",
               "40",
               "30",
               "20",
-              "10",
-              "20"
+              "10"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -3166,7 +3166,7 @@ export const WeatherForecast7Days = [
               "เย็น",
               "เย็น",
               "เย็น",
-              "ปกติ",
+              "เย็น",
               "ปกติ",
               "ปกติ",
               "ปกติ"
@@ -3175,7 +3175,7 @@ export const WeatherForecast7Days = [
               "Cool",
               "Cool",
               "Cool",
-              "Normal",
+              "Cool",
               "Normal",
               "Normal",
               "Normal"
@@ -3187,21 +3187,21 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Amnat Chareon",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "32.0",
               "32.0",
               "32.0",
+              "32.0",
               "31.0",
               "32.0",
-              "33.0",
               "33.0"
             ],
             "MinimumTemperature": [
@@ -3210,34 +3210,34 @@ export const WeatherForecast7Days = [
               "23.0",
               "23.0",
               "23.0",
-              "24.0",
-              "23.0"
+              "23.0",
+              "24.0"
             ],
             "WindDirection": [
+              "50",
               "120",
               "120",
               "100",
               "90",
               "90",
-              "50",
               "50"
             ],
             "WindSpeed": [
+              "7",
               "5",
               "6",
               "5",
               "6",
               "7",
-              "7",
-              "6"
+              "7"
             ],
             "PercentRainCover": [
+              "10",
               "30",
               "30",
               "20",
               "20",
               "20",
-              "0",
               "0"
             ],
             "DescriptionThai": [
@@ -3246,7 +3246,7 @@ export const WeatherForecast7Days = [
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
-              "ท้องฟ้าโปร่ง",
+              "ฝนฟ้าคะนอง",
               "ท้องฟ้าโปร่ง"
             ],
             "DescriptionEnglish": [
@@ -3255,7 +3255,7 @@ export const WeatherForecast7Days = [
               "Heavy Rain",
               "Heavy Rain",
               "Heavy Rain",
-              "Clear",
+              "Heavy Rain",
               "Clear"
             ],
             "TemperatureThai": [
@@ -3283,58 +3283,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Kanchanaburi",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "30.0",
               "31.0",
-              "31.0",
+              "33.0",
               "32.0",
               "33.0",
               "33.0",
-              "34.0"
+              "33.0",
+              "33.0"
             ],
             "MinimumTemperature": [
-              "23.0",
-              "23.0",
-              "23.0",
+              "25.0",
               "24.0",
-              "23.0",
-              "23.0",
-              "23.0"
+              "24.0",
+              "25.0",
+              "24.0",
+              "25.0",
+              "24.0"
             ],
             "WindDirection": [
-              "130",
-              "190",
-              "110",
-              "120",
-              "230",
+              "320",
+              "330",
               "70",
+              "280",
+              "280",
+              "120",
               "60"
             ],
             "WindSpeed": [
-              "9",
-              "8",
-              "8",
-              "5",
+              "6",
               "7",
-              "10",
-              "9"
+              "7",
+              "8",
+              "4",
+              "8",
+              "8"
             ],
             "PercentRainCover": [
+              "70",
+              "70",
+              "70",
               "60",
               "60",
               "60",
-              "40",
-              "40",
-              "40",
-              "40"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -3379,58 +3379,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Nakhon Sawan",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "30.0",
-              "31.0",
-              "31.0",
               "32.0",
-              "32.0",
+              "34.0",
+              "34.0",
               "33.0",
-              "33.0"
+              "32.0",
+              "34.0",
+              "34.0"
             ],
             "MinimumTemperature": [
-              "23.0",
               "24.0",
-              "23.0",
-              "24.0",
-              "23.0",
-              "23.0",
-              "24.0"
+              "26.0",
+              "25.0",
+              "26.0",
+              "25.0",
+              "26.0",
+              "25.0"
             ],
             "WindDirection": [
+              "340",
+              "80",
               "170",
-              "40",
-              "160",
-              "60",
-              "70",
-              "120",
-              "110"
+              "50",
+              "50",
+              "90",
+              "100"
             ],
             "WindSpeed": [
+              "4",
               "3",
+              "4",
               "5",
+              "6",
               "5",
-              "7",
-              "3",
-              "7",
-              "5"
+              "4"
             ],
             "PercentRainCover": [
+              "70",
+              "70",
+              "70",
               "60",
               "60",
               "60",
-              "30",
-              "30",
-              "30",
-              "30"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -3475,49 +3475,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Bangkok",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "30.0",
-              "31.0",
-              "31.0",
-              "32.0",
-              "33.0",
-              "33.0",
+              "35.0",
+              "34.0",
+              "34.0",
+              "34.0",
+              "35.0",
+              "34.0",
               "34.0"
             ],
             "MinimumTemperature": [
-              "24.0",
-              "24.0",
-              "24.0",
-              "25.0",
-              "24.0",
-              "24.0",
-              "25.0"
+              "28.0",
+              "27.0",
+              "27.0",
+              "27.0",
+              "27.0",
+              "27.0",
+              "26.0"
             ],
             "WindDirection": [
-              "100",
-              "350",
-              "160",
+              "170",
+              "50",
+              "170",
               "220",
-              "260",
-              "330",
-              "130"
+              "80",
+              "200",
+              "280"
             ],
             "WindSpeed": [
-              "5",
+              "9",
+              "10",
               "8",
-              "4",
-              "3",
               "6",
-              "5",
-              "8"
+              "7",
+              "7",
+              "7"
             ],
             "PercentRainCover": [
               "70",
@@ -3571,58 +3571,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Suphan Buri",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "31.0",
               "32.0",
               "32.0",
-              "33.0",
+              "34.0",
               "33.0",
               "34.0",
+              "35.0",
               "34.0"
             ],
             "MinimumTemperature": [
-              "24.0",
               "25.0",
-              "24.0",
               "25.0",
-              "24.0",
-              "24.0",
-              "25.0"
+              "25.0",
+              "25.0",
+              "25.0",
+              "26.0",
+              "24.0"
             ],
             "WindDirection": [
-              "60",
-              "60",
-              "320",
-              "20",
-              "310",
-              "80",
-              "30"
+              "130",
+              "160",
+              "200",
+              "30",
+              "100",
+              "140",
+              "40"
             ],
             "WindSpeed": [
-              "10",
-              "9",
-              "4",
-              "5",
+              "13",
+              "7",
+              "3",
               "4",
               "8",
-              "5"
+              "6",
+              "9"
             ],
             "PercentRainCover": [
+              "70",
+              "70",
+              "70",
               "60",
               "60",
               "60",
-              "40",
-              "40",
-              "40",
-              "40"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -3667,58 +3667,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Chainat",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "31.0",
               "32.0",
               "32.0",
-              "33.0",
-              "33.0",
               "34.0",
-              "34.0"
+              "33.0",
+              "31.0",
+              "33.0",
+              "33.0"
             ],
             "MinimumTemperature": [
               "25.0",
-              "26.0",
-              "25.0",
-              "26.0",
               "25.0",
               "25.0",
-              "26.0"
+              "25.0",
+              "25.0",
+              "25.0",
+              "24.0"
             ],
             "WindDirection": [
-              "220",
-              "30",
-              "310",
-              "70",
               "10",
-              "130",
-              "80"
+              "80",
+              "30",
+              "30",
+              "150",
+              "90",
+              "20"
             ],
             "WindSpeed": [
-              "4",
-              "5",
+              "6",
               "4",
               "3",
               "5",
-              "5",
-              "4"
+              "8",
+              "4",
+              "5"
             ],
             "PercentRainCover": [
+              "70",
+              "70",
+              "70",
               "60",
               "60",
               "60",
-              "30",
-              "30",
-              "30",
-              "30"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -3763,58 +3763,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Lop Buri",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "31.0",
               "32.0",
-              "32.0",
-              "33.0",
               "33.0",
               "34.0",
-              "34.0"
+              "33.0",
+              "35.0",
+              "34.0",
+              "35.0"
             ],
             "MinimumTemperature": [
-              "24.0",
               "25.0",
-              "24.0",
               "25.0",
-              "24.0",
-              "24.0",
-              "25.0"
+              "25.0",
+              "25.0",
+              "25.0",
+              "25.0",
+              "24.0"
             ],
             "WindDirection": [
-              "270",
-              "300",
-              "130",
-              "140",
-              "50",
-              "100",
-              "110"
+              "170",
+              "0",
+              "80",
+              "60",
+              "80",
+              "260",
+              "60"
             ],
             "WindSpeed": [
+              "6",
+              "5",
               "5",
               "4",
-              "4",
-              "7",
-              "6",
               "8",
-              "11"
+              "6",
+              "7"
             ],
             "PercentRainCover": [
+              "70",
+              "70",
+              "70",
               "60",
               "60",
               "60",
-              "30",
-              "30",
-              "30",
-              "30"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -3859,58 +3859,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Ayutthaya",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "30.0",
               "31.0",
               "31.0",
+              "33.0",
               "32.0",
               "33.0",
-              "33.0",
-              "34.0"
+              "35.0",
+              "37.0"
             ],
             "MinimumTemperature": [
-              "24.0",
-              "24.0",
-              "24.0",
+              "25.0",
               "25.0",
               "24.0",
-              "24.0",
-              "25.0"
+              "25.0",
+              "25.0",
+              "26.0",
+              "24.0"
             ],
             "WindDirection": [
-              "40",
-              "150",
-              "140",
-              "70",
-              "60",
-              "50",
-              "50"
+              "0",
+              "330",
+              "330",
+              "160",
+              "80",
+              "250",
+              "70"
             ],
             "WindSpeed": [
-              "9",
-              "7",
               "5",
-              "8",
-              "9",
-              "8",
-              "10"
+              "4",
+              "3",
+              "4",
+              "4",
+              "4",
+              "9"
             ],
             "PercentRainCover": [
+              "70",
+              "70",
+              "70",
               "60",
               "60",
               "60",
-              "40",
-              "40",
-              "40",
-              "40"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -3955,58 +3955,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Ratchaburi",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "29.0",
-              "30.0",
-              "30.0",
-              "31.0",
               "32.0",
               "32.0",
+              "32.0",
+              "32.0",
+              "33.0",
+              "34.0",
               "33.0"
             ],
             "MinimumTemperature": [
-              "23.0",
-              "23.0",
-              "23.0",
+              "25.0",
               "24.0",
               "23.0",
-              "23.0",
+              "25.0",
+              "24.0",
+              "26.0",
               "24.0"
             ],
             "WindDirection": [
-              "60",
-              "220",
-              "60",
-              "120",
-              "260",
-              "80",
-              "130"
+              "40",
+              "40",
+              "130",
+              "150",
+              "10",
+              "170",
+              "330"
             ],
             "WindSpeed": [
-              "3",
-              "9",
+              "6",
               "5",
-              "5",
-              "5",
-              "5",
-              "7"
+              "7",
+              "4",
+              "4",
+              "8",
+              "3"
             ],
             "PercentRainCover": [
+              "70",
+              "70",
+              "70",
               "60",
               "60",
               "60",
-              "40",
-              "40",
-              "40",
-              "40"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -4051,49 +4051,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Pathum Thani",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "30.0",
-              "31.0",
-              "31.0",
               "32.0",
               "33.0",
-              "33.0",
+              "32.0",
+              "32.0",
+              "32.0",
+              "35.0",
               "34.0"
             ],
             "MinimumTemperature": [
+              "25.0",
+              "25.0",
+              "25.0",
+              "25.0",
+              "25.0",
               "26.0",
-              "26.0",
-              "26.0",
-              "27.0",
-              "26.0",
-              "26.0",
-              "27.0"
+              "24.0"
             ],
             "WindDirection": [
-              "50",
-              "180",
-              "40",
               "20",
-              "230",
-              "40",
-              "150"
+              "30",
+              "20",
+              "20",
+              "350",
+              "140",
+              "70"
             ],
             "WindSpeed": [
               "6",
-              "10",
-              "4",
-              "9",
               "5",
-              "8",
-              "9"
+              "6",
+              "5",
+              "10",
+              "10",
+              "8"
             ],
             "PercentRainCover": [
               "70",
@@ -4147,58 +4147,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Sara Buri",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "32.0",
+              "32.0",
               "30.0",
               "31.0",
-              "31.0",
-              "32.0",
-              "33.0",
-              "33.0",
+              "34.0",
+              "35.0",
               "34.0"
             ],
             "MinimumTemperature": [
-              "24.0",
-              "24.0",
-              "24.0",
               "25.0",
-              "24.0",
-              "24.0",
+              "25.0",
+              "25.0",
+              "25.0",
+              "25.0",
+              "26.0",
               "25.0"
             ],
             "WindDirection": [
-              "340",
-              "150",
-              "170",
-              "50",
-              "290",
-              "220",
-              "40"
+              "60",
+              "0",
+              "140",
+              "120",
+              "10",
+              "10",
+              "70"
             ],
             "WindSpeed": [
-              "5",
-              "6",
-              "5",
-              "3",
-              "4",
               "7",
+              "4",
+              "5",
+              "8",
+              "5",
+              "5",
               "7"
             ],
             "PercentRainCover": [
+              "70",
+              "70",
+              "70",
               "60",
               "60",
               "60",
-              "40",
-              "40",
-              "40",
-              "40"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -4243,58 +4243,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Sing Buri",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "32.0",
               "31.0",
-              "32.0",
-              "32.0",
               "33.0",
+              "32.0",
               "33.0",
               "34.0",
-              "34.0"
+              "33.0"
             ],
             "MinimumTemperature": [
               "24.0",
               "25.0",
-              "24.0",
               "25.0",
-              "24.0",
-              "24.0",
-              "25.0"
+              "25.0",
+              "25.0",
+              "25.0",
+              "23.0"
             ],
             "WindDirection": [
-              "120",
-              "190",
-              "20",
-              "40",
-              "60",
-              "170",
-              "130"
+              "140",
+              "10",
+              "140",
+              "140",
+              "320",
+              "50",
+              "60"
             ],
             "WindSpeed": [
-              "6",
-              "4",
+              "13",
               "3",
+              "5",
+              "4",
               "9",
-              "5",
-              "5",
-              "10"
+              "6",
+              "7"
             ],
             "PercentRainCover": [
+              "70",
+              "70",
+              "70",
               "60",
               "60",
               "60",
-              "30",
-              "30",
-              "30",
-              "30"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -4339,58 +4339,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Samut Songkhram",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "29.0",
-              "30.0",
-              "30.0",
+              "31.0",
+              "33.0",
+              "32.0",
               "31.0",
               "32.0",
               "32.0",
-              "33.0"
+              "32.0"
             ],
             "MinimumTemperature": [
               "24.0",
               "24.0",
-              "24.0",
+              "23.0",
               "25.0",
               "24.0",
-              "24.0",
-              "25.0"
+              "26.0",
+              "24.0"
             ],
             "WindDirection": [
-              "200",
-              "220",
-              "40",
-              "150",
+              "110",
+              "360",
+              "190",
               "160",
+              "320",
               "140",
-              "110"
+              "150"
             ],
             "WindSpeed": [
-              "5",
               "6",
+              "6",
+              "5",
               "4",
-              "5",
-              "7",
-              "5",
-              "7"
+              "3",
+              "6",
+              "6"
             ],
             "PercentRainCover": [
+              "70",
+              "70",
+              "70",
               "60",
               "60",
               "60",
-              "40",
-              "40",
-              "40",
-              "40"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -4453,58 +4453,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Ang Thong",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "31.0",
-              "32.0",
-              "32.0",
-              "33.0",
-              "33.0",
               "34.0",
-              "34.0"
+              "33.0",
+              "33.0",
+              "32.0",
+              "34.0",
+              "33.0",
+              "33.0"
             ],
             "MinimumTemperature": [
-              "24.0",
               "25.0",
-              "24.0",
               "25.0",
-              "24.0",
-              "24.0",
-              "25.0"
+              "25.0",
+              "25.0",
+              "25.0",
+              "25.0",
+              "23.0"
             ],
             "WindDirection": [
-              "50",
-              "280",
-              "20",
-              "90",
-              "90",
-              "120",
-              "150"
+              "170",
+              "350",
+              "140",
+              "110",
+              "10",
+              "10",
+              "120"
             ],
             "WindSpeed": [
-              "6",
-              "5",
+              "7",
+              "4",
+              "9",
               "4",
               "6",
               "8",
-              "7",
-              "10"
+              "9"
             ],
             "PercentRainCover": [
+              "70",
+              "70",
+              "70",
               "60",
               "60",
               "60",
-              "30",
-              "30",
-              "30",
-              "30"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -4549,58 +4549,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Uthai Thani",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "31.0",
+              "33.0",
+              "33.0",
+              "31.0",
               "32.0",
-              "33.0",
-              "33.0",
               "34.0",
-              "34.0",
-              "35.0",
-              "35.0"
+              "34.0"
             ],
             "MinimumTemperature": [
+              "25.0",
+              "26.0",
+              "25.0",
+              "26.0",
               "24.0",
               "25.0",
-              "24.0",
-              "25.0",
-              "24.0",
-              "24.0",
-              "25.0"
+              "24.0"
             ],
             "WindDirection": [
-              "240",
-              "70",
-              "340",
-              "10",
-              "50",
-              "80",
-              "240"
+              "30",
+              "160",
+              "160",
+              "20",
+              "170",
+              "100",
+              "20"
             ],
             "WindSpeed": [
               "5",
-              "5",
-              "3",
-              "3",
-              "3",
               "4",
-              "6"
+              "4",
+              "3",
+              "8",
+              "7",
+              "8"
             ],
             "PercentRainCover": [
+              "70",
+              "70",
+              "70",
               "60",
               "60",
               "60",
-              "30",
-              "30",
-              "30",
-              "30"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -4645,49 +4645,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Nonthaburi",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "29.0",
-              "30.0",
-              "30.0",
-              "31.0",
-              "32.0",
-              "32.0",
-              "33.0"
+              "35.0",
+              "34.0",
+              "35.0",
+              "34.0",
+              "35.0",
+              "34.0",
+              "35.0"
             ],
             "MinimumTemperature": [
-              "25.0",
-              "25.0",
-              "25.0",
+              "28.0",
               "26.0",
-              "25.0",
-              "25.0",
+              "27.0",
+              "27.0",
+              "27.0",
+              "27.0",
               "26.0"
             ],
             "WindDirection": [
-              "240",
-              "260",
-              "110",
-              "160",
-              "250",
-              "210",
-              "120"
+              "140",
+              "40",
+              "150",
+              "220",
+              "350",
+              "230",
+              "310"
             ],
             "WindSpeed": [
-              "4",
               "6",
-              "5",
-              "3",
-              "7",
               "8",
-              "9"
+              "6",
+              "6",
+              "4",
+              "7",
+              "7"
             ],
             "PercentRainCover": [
               "70",
@@ -4741,49 +4741,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Nakhon Pathom",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "30.0",
-              "31.0",
-              "31.0",
-              "32.0",
               "33.0",
+              "34.0",
+              "34.0",
+              "33.0",
+              "34.0",
               "33.0",
               "34.0"
             ],
             "MinimumTemperature": [
-              "23.0",
-              "23.0",
-              "23.0",
-              "24.0",
-              "23.0",
-              "23.0",
-              "24.0"
+              "26.0",
+              "25.0",
+              "25.0",
+              "26.0",
+              "26.0",
+              "26.0",
+              "25.0"
             ],
             "WindDirection": [
-              "260",
-              "190",
               "60",
-              "80",
-              "50",
-              "130",
-              "130"
+              "0",
+              "140",
+              "120",
+              "340",
+              "220",
+              "50"
             ],
             "WindSpeed": [
-              "9",
-              "4",
-              "4",
-              "4",
+              "13",
               "5",
-              "11",
-              "8"
+              "5",
+              "3",
+              "5",
+              "4",
+              "5"
             ],
             "PercentRainCover": [
               "70",
@@ -4792,7 +4792,7 @@ export const WeatherForecast7Days = [
               "60",
               "60",
               "60",
-              "60"
+              "70"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -4837,49 +4837,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Samut Prakan",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "29.0",
-              "30.0",
-              "30.0",
-              "31.0",
+              "34.0",
+              "33.0",
+              "32.0",
+              "33.0",
               "32.0",
               "32.0",
               "33.0"
             ],
             "MinimumTemperature": [
-              "25.0",
-              "25.0",
-              "25.0",
-              "26.0",
-              "25.0",
-              "25.0",
+              "28.0",
+              "27.0",
+              "27.0",
+              "28.0",
+              "28.0",
+              "28.0",
               "26.0"
             ],
             "WindDirection": [
-              "150",
-              "210",
-              "110",
-              "130",
-              "150",
-              "260",
-              "130"
+              "60",
+              "50",
+              "220",
+              "230",
+              "100",
+              "200",
+              "220"
             ],
             "WindSpeed": [
               "6",
-              "5",
-              "5",
-              "6",
-              "5",
               "9",
-              "7"
+              "4",
+              "7",
+              "9",
+              "7",
+              "6"
             ],
             "PercentRainCover": [
               "70",
@@ -4951,49 +4951,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Samut Sakhon",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "29.0",
-              "30.0",
-              "30.0",
-              "31.0",
               "32.0",
+              "30.0",
+              "32.0",
+              "30.0",
+              "33.0",
               "32.0",
               "33.0"
             ],
             "MinimumTemperature": [
               "25.0",
               "25.0",
+              "24.0",
+              "25.0",
               "25.0",
               "26.0",
-              "25.0",
-              "25.0",
-              "26.0"
+              "24.0"
             ],
             "WindDirection": [
-              "340",
-              "200",
-              "360",
               "70",
-              "180",
-              "20",
-              "180"
+              "310",
+              "220",
+              "100",
+              "120",
+              "260",
+              "360"
             ],
             "WindSpeed": [
+              "13",
               "5",
               "5",
               "4",
-              "4",
+              "5",
               "7",
-              "7",
-              "6"
+              "5"
             ],
             "PercentRainCover": [
               "70",
@@ -5065,49 +5065,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Sakaeo",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "31.0",
+              "33.0",
               "31.0",
               "32.0",
+              "32.0",
               "33.0",
-              "33.0",
-              "34.0",
-              "34.0"
+              "33.0"
             ],
             "MinimumTemperature": [
-              "24.0",
-              "24.0",
-              "25.0",
               "25.0",
               "24.0",
               "24.0",
-              "25.0"
+              "25.0",
+              "24.0",
+              "24.0",
+              "23.0"
             ],
             "WindDirection": [
-              "110",
               "90",
+              "80",
+              "90",
+              "150",
               "70",
-              "340",
-              "220",
-              "290",
-              "10"
+              "50",
+              "360"
             ],
             "WindSpeed": [
+              "10",
               "5",
               "6",
               "5",
-              "7",
-              "7",
-              "8",
-              "8"
+              "5",
+              "5",
+              "4"
             ],
             "PercentRainCover": [
               "70",
@@ -5161,49 +5161,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Chonburi",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "32.0",
-              "32.0",
               "33.0",
+              "33.0",
+              "32.0",
               "34.0",
-              "34.0",
-              "35.0",
-              "35.0"
+              "31.0",
+              "33.0"
             ],
             "MinimumTemperature": [
-              "24.0",
-              "24.0",
+              "25.0",
+              "26.0",
               "25.0",
               "25.0",
-              "24.0",
-              "24.0",
+              "27.0",
+              "28.0",
               "25.0"
             ],
             "WindDirection": [
-              "200",
+              "40",
+              "60",
+              "60",
+              "210",
+              "220",
               "270",
-              "160",
-              "300",
-              "260",
-              "180",
-              "150"
+              "190"
             ],
             "WindSpeed": [
-              "4",
-              "3",
-              "4",
-              "3",
+              "8",
+              "7",
               "5",
-              "10",
-              "9"
+              "7",
+              "5",
+              "6",
+              "10"
             ],
             "PercentRainCover": [
               "70",
@@ -5275,49 +5275,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Rayong",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "30.0",
-              "30.0",
-              "31.0",
-              "32.0",
               "32.0",
               "33.0",
-              "33.0"
+              "33.0",
+              "32.0",
+              "30.0",
+              "31.0",
+              "32.0"
             ],
             "MinimumTemperature": [
-              "24.0",
-              "24.0",
               "25.0",
+              "26.0",
               "25.0",
-              "24.0",
-              "24.0",
+              "26.0",
+              "26.0",
+              "27.0",
               "25.0"
             ],
             "WindDirection": [
-              "210",
               "170",
-              "10",
-              "220",
-              "240",
+              "330",
+              "20",
+              "150",
               "210",
-              "180"
+              "330",
+              "200"
             ],
             "WindSpeed": [
+              "9",
+              "5",
               "4",
-              "6",
-              "4",
+              "7",
               "5",
               "6",
-              "7",
-              "7"
+              "5"
             ],
             "PercentRainCover": [
               "70",
@@ -5389,49 +5389,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Prachinburi",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "31.0",
-              "31.0",
+              "32.0",
               "32.0",
               "33.0",
-              "33.0",
+              "32.0",
               "34.0",
-              "34.0"
+              "33.0",
+              "33.0"
             ],
             "MinimumTemperature": [
-              "25.0",
-              "25.0",
-              "26.0",
               "26.0",
               "25.0",
+              "24.0",
               "25.0",
-              "26.0"
+              "25.0",
+              "24.0",
+              "23.0"
             ],
             "WindDirection": [
+              "70",
               "140",
-              "40",
-              "170",
-              "90",
-              "20",
-              "30",
-              "60"
+              "130",
+              "50",
+              "60",
+              "310",
+              "350"
             ],
             "WindSpeed": [
-              "7",
+              "13",
               "5",
-              "8",
+              "5",
               "7",
-              "9",
-              "10",
-              "9"
+              "7",
+              "7",
+              "7"
             ],
             "PercentRainCover": [
               "70",
@@ -5485,49 +5485,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Trad",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "30.0",
+              "35.0",
+              "33.0",
+              "31.0",
+              "31.0",
               "30.0",
               "31.0",
-              "32.0",
-              "32.0",
-              "33.0",
               "33.0"
             ],
             "MinimumTemperature": [
-              "23.0",
-              "23.0",
+              "25.0",
+              "25.0",
               "24.0",
-              "24.0",
-              "23.0",
-              "23.0",
+              "25.0",
+              "25.0",
+              "25.0",
               "24.0"
             ],
             "WindDirection": [
+              "220",
+              "0",
+              "160",
               "150",
-              "90",
-              "120",
-              "340",
-              "260",
-              "210",
+              "220",
+              "240",
               "50"
             ],
             "WindSpeed": [
-              "9",
-              "4",
+              "10",
               "7",
-              "3",
+              "7",
               "8",
-              "7",
-              "10"
+              "10",
+              "8",
+              "8"
             ],
             "PercentRainCover": [
               "70",
@@ -5599,49 +5599,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Chantaburi",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "31.0",
+              "30.0",
+              "33.0",
               "31.0",
               "32.0",
-              "33.0",
-              "33.0",
-              "34.0",
-              "34.0"
+              "32.0",
+              "32.0",
+              "35.0"
             ],
             "MinimumTemperature": [
-              "23.0",
-              "23.0",
-              "24.0",
-              "24.0",
-              "23.0",
-              "23.0",
-              "24.0"
+              "26.0",
+              "25.0",
+              "25.0",
+              "25.0",
+              "26.0",
+              "26.0",
+              "25.0"
             ],
             "WindDirection": [
-              "40",
-              "170",
-              "30",
-              "180",
-              "240",
-              "220",
-              "30"
+              "260",
+              "70",
+              "160",
+              "50",
+              "230",
+              "340",
+              "230"
             ],
             "WindSpeed": [
-              "7",
-              "7",
-              "5",
-              "5",
+              "11",
               "6",
-              "5",
-              "7"
+              "8",
+              "4",
+              "4",
+              "9",
+              "8"
             ],
             "PercentRainCover": [
               "70",
@@ -5713,49 +5713,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Chacheongsao",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "31.0",
-              "31.0",
               "32.0",
-              "33.0",
-              "33.0",
+              "35.0",
+              "32.0",
+              "32.0",
               "34.0",
-              "34.0"
+              "34.0",
+              "36.0"
             ],
             "MinimumTemperature": [
-              "23.0",
-              "23.0",
+              "25.0",
+              "25.0",
               "24.0",
-              "24.0",
-              "23.0",
-              "23.0",
+              "25.0",
+              "25.0",
+              "27.0",
               "24.0"
             ],
             "WindDirection": [
-              "110",
+              "70",
+              "350",
+              "80",
+              "80",
               "220",
-              "70",
-              "70",
-              "160",
-              "30",
-              "90"
+              "210",
+              "190"
             ],
             "WindSpeed": [
-              "3",
-              "6",
+              "9",
               "5",
+              "11",
+              "4",
               "4",
               "6",
-              "10",
-              "7"
+              "13"
             ],
             "PercentRainCover": [
               "70",
@@ -5809,49 +5809,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Nakhon Nayok",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "30.0",
-              "30.0",
-              "31.0",
-              "32.0",
               "32.0",
               "33.0",
+              "33.0",
+              "33.0",
+              "32.0",
+              "34.0",
               "33.0"
             ],
             "MinimumTemperature": [
-              "23.0",
-              "23.0",
-              "24.0",
-              "24.0",
-              "23.0",
-              "23.0",
-              "24.0"
+              "25.0",
+              "25.0",
+              "25.0",
+              "25.0",
+              "25.0",
+              "25.0",
+              "23.0"
             ],
             "WindDirection": [
-              "40",
-              "30",
-              "340",
-              "60",
-              "70",
-              "220",
-              "70"
+              "80",
+              "160",
+              "200",
+              "180",
+              "300",
+              "280",
+              "110"
             ],
             "WindSpeed": [
+              "10",
+              "4",
+              "5",
+              "5",
               "6",
               "5",
-              "7",
-              "7",
-              "8",
-              "5",
-              "10"
+              "5"
             ],
             "PercentRainCover": [
               "70",
@@ -5905,49 +5905,49 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Pattaya",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "32.0",
-              "32.0",
               "33.0",
-              "34.0",
-              "34.0",
-              "35.0",
-              "35.0"
+              "30.0",
+              "32.0",
+              "31.0",
+              "31.0",
+              "31.0"
             ],
             "MinimumTemperature": [
-              "24.0",
-              "24.0",
+              "26.0",
+              "26.0",
+              "26.0",
               "25.0",
-              "25.0",
-              "24.0",
-              "24.0",
-              "25.0"
+              "27.0",
+              "27.0",
+              "26.0"
             ],
             "WindDirection": [
-              "230",
-              "140",
-              "140",
+              "40",
+              "20",
               "300",
-              "290",
-              "320",
-              "290"
+              "220",
+              "240",
+              "270",
+              "140"
             ],
             "WindSpeed": [
+              "7",
               "5",
-              "4",
               "5",
-              "5",
+              "7",
+              "3",
               "6",
-              "6",
-              "8"
+              "7"
             ],
             "PercentRainCover": [
               "70",
@@ -6019,31 +6019,31 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Prachaup Khiri Kan",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "32.0",
+              "31.0",
               "32.0",
               "33.0",
               "33.0",
-              "32.0",
-              "32.0",
-              "32.0"
+              "33.0",
+              "33.0",
+              "31.0"
             ],
             "MinimumTemperature": [
               "25.0",
               "25.0",
-              "25.0",
-              "25.0",
-              "25.0",
-              "25.0",
-              "25.0"
+              "26.0",
+              "26.0",
+              "26.0",
+              "26.0",
+              "26.0"
             ],
             "WindDirection": [
               "90",
@@ -6055,22 +6055,22 @@ export const WeatherForecast7Days = [
               "90"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
               "40",
               "40",
-              "60",
-              "60",
-              "70"
+              "40",
+              "40",
+              "40"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -6133,27 +6133,27 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Chumphon",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "31.0",
               "31.0",
               "32.0",
+              "33.0",
+              "33.0",
               "32.0",
-              "31.0",
-              "31.0",
               "31.0"
             ],
             "MinimumTemperature": [
-              "25.0",
-              "25.0",
-              "25.0",
+              "24.0",
+              "24.0",
+              "24.0",
               "25.0",
               "25.0",
               "25.0",
@@ -6169,22 +6169,22 @@ export const WeatherForecast7Days = [
               "90"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
+              "60",
               "40",
               "40",
-              "60",
-              "60",
-              "70"
+              "40",
+              "60"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -6247,22 +6247,22 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Nakhon Sri Thammarat",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "32.0",
+              "32.0",
+              "32.0",
               "33.0",
               "33.0",
-              "34.0",
               "33.0",
-              "33.0",
-              "33.0",
-              "33.0"
+              "32.0"
             ],
             "MinimumTemperature": [
               "24.0",
@@ -6274,31 +6274,31 @@ export const WeatherForecast7Days = [
               "24.0"
             ],
             "WindDirection": [
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "90"
+              "120",
+              "120",
+              "90",
+              "90",
+              "90",
+              "120",
+              "120"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
+              "60",
               "40",
-              "60",
-              "60",
-              "70",
-              "70"
+              "40",
+              "40",
+              "60"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -6361,58 +6361,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Narathiwat",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "33.0",
               "33.0",
+              "33.0",
               "34.0",
-              "33.0",
-              "33.0",
-              "33.0",
+              "34.0",
+              "34.0",
               "33.0"
             ],
             "MinimumTemperature": [
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0"
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0"
             ],
             "WindDirection": [
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "90"
+              "120",
+              "120",
+              "90",
+              "90",
+              "90",
+              "120",
+              "120"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
-              "40",
               "60",
-              "70",
-              "70",
-              "70"
+              "40",
+              "40",
+              "40",
+              "60"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -6475,31 +6475,31 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Surat Thani",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "32.0",
+              "32.0",
+              "32.0",
               "33.0",
               "33.0",
-              "34.0",
-              "34.0",
               "33.0",
-              "33.0",
-              "33.0"
+              "32.0"
             ],
             "MinimumTemperature": [
               "23.0",
               "23.0",
               "23.0",
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0"
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0"
             ],
             "WindDirection": [
               "90",
@@ -6511,22 +6511,22 @@ export const WeatherForecast7Days = [
               "90"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
-              "40",
-              "40",
               "60",
-              "70",
-              "70"
+              "40",
+              "40",
+              "40",
+              "60"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -6589,21 +6589,21 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Yala",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "33.0",
               "33.0",
+              "33.0",
               "34.0",
-              "33.0",
-              "33.0",
-              "33.0",
+              "34.0",
+              "34.0",
               "33.0"
             ],
             "MinimumTemperature": [
@@ -6616,31 +6616,31 @@ export const WeatherForecast7Days = [
               "23.0"
             ],
             "WindDirection": [
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "90"
+              "120",
+              "120",
+              "90",
+              "90",
+              "90",
+              "120",
+              "120"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
-              "40",
               "60",
-              "70",
-              "70",
-              "70"
+              "40",
+              "40",
+              "40",
+              "60"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -6685,58 +6685,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Pattani",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "33.0",
               "33.0",
+              "33.0",
               "34.0",
-              "33.0",
-              "33.0",
-              "33.0",
+              "34.0",
+              "34.0",
               "33.0"
             ],
             "MinimumTemperature": [
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0"
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0"
             ],
             "WindDirection": [
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "90"
+              "120",
+              "120",
+              "90",
+              "90",
+              "90",
+              "120",
+              "120"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
-              "40",
               "60",
-              "70",
-              "70",
-              "70"
+              "40",
+              "40",
+              "40",
+              "60"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -6799,21 +6799,21 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Songkhla",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "31.0",
               "31.0",
               "32.0",
-              "31.0",
-              "31.0",
-              "31.0",
+              "33.0",
+              "33.0",
+              "33.0",
               "31.0"
             ],
             "MinimumTemperature": [
@@ -6826,31 +6826,31 @@ export const WeatherForecast7Days = [
               "25.0"
             ],
             "WindDirection": [
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "90"
+              "120",
+              "120",
+              "90",
+              "90",
+              "90",
+              "120",
+              "120"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
-              "40",
               "60",
-              "70",
-              "70",
-              "70"
+              "40",
+              "40",
+              "40",
+              "60"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -6913,22 +6913,22 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Phetburi",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "31.0",
               "31.0",
+              "33.0",
+              "33.0",
+              "33.0",
               "32.0",
-              "31.0",
-              "31.0",
-              "31.0",
-              "31.0"
+              "32.0"
             ],
             "MinimumTemperature": [
               "24.0",
@@ -6949,22 +6949,22 @@ export const WeatherForecast7Days = [
               "90"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
               "40",
-              "60",
-              "60",
-              "70",
-              "70"
+              "40",
+              "40",
+              "40",
+              "40"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -7027,31 +7027,31 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Hua Hin (Prachaup Khiri Kan)",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
-              "30.0",
-              "30.0",
               "31.0",
               "31.0",
-              "30.0",
-              "30.0",
-              "30.0"
+              "32.0",
+              "32.0",
+              "32.0",
+              "32.0",
+              "32.0"
             ],
             "MinimumTemperature": [
               "23.0",
               "23.0",
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0",
-              "23.0"
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0",
+              "24.0"
             ],
             "WindDirection": [
               "90",
@@ -7063,22 +7063,22 @@ export const WeatherForecast7Days = [
               "90"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
               "40",
               "40",
-              "60",
-              "60",
-              "70"
+              "40",
+              "40",
+              "40"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -7141,22 +7141,22 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Kho Samui (Surat Thani)",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "30.0",
+              "30.0",
+              "30.0",
               "31.0",
               "31.0",
-              "32.0",
-              "32.0",
               "31.0",
-              "31.0",
-              "31.0"
+              "30.0"
             ],
             "MinimumTemperature": [
               "26.0",
@@ -7177,22 +7177,22 @@ export const WeatherForecast7Days = [
               "90"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
-              "40",
-              "40",
               "60",
-              "70",
-              "70"
+              "40",
+              "40",
+              "40",
+              "60"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -7255,21 +7255,21 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Pattalung",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "32.0",
               "32.0",
+              "32.0",
               "33.0",
-              "32.0",
-              "32.0",
-              "32.0",
+              "33.0",
+              "33.0",
               "32.0"
             ],
             "MinimumTemperature": [
@@ -7282,31 +7282,31 @@ export const WeatherForecast7Days = [
               "25.0"
             ],
             "WindDirection": [
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "90"
+              "120",
+              "120",
+              "90",
+              "90",
+              "90",
+              "120",
+              "120"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
-              "40",
               "60",
-              "70",
-              "70",
-              "70"
+              "40",
+              "40",
+              "40",
+              "60"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -7351,58 +7351,58 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Ranong",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "33.0",
               "32.0",
               "32.0",
               "32.0",
               "33.0",
               "33.0",
-              "32.0",
-              "32.0"
+              "31.0"
             ],
             "MinimumTemperature": [
-              "23.0",
-              "23.0",
               "24.0",
+              "23.0",
+              "23.0",
               "24.0",
               "24.0",
               "24.0",
               "24.0"
             ],
             "WindDirection": [
-              "280",
+              "250",
+              "250",
               "270",
               "230",
               "240",
               "240",
-              "250",
-              "260"
+              "120"
             ],
             "WindSpeed": [
+              "6",
               "6",
               "8",
               "8",
               "7",
               "6",
-              "8",
-              "8"
+              "7"
             ],
             "PercentRainCover": [
               "60",
               "60",
               "60",
-              "40",
               "60",
               "60",
-              "70"
+              "60",
+              "60"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -7465,56 +7465,56 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Phuket",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "33.0",
               "33.0",
+              "33.0",
               "34.0",
               "34.0",
-              "33.0",
-              "33.0",
-              "33.0"
+              "34.0",
+              "34.0"
             ],
             "MinimumTemperature": [
               "25.0",
+              "25.0",
               "26.0",
               "26.0",
               "25.0",
-              "26.0",
               "26.0",
               "25.0"
             ],
             "WindDirection": [
-              "290",
+              "260",
+              "260",
               "270",
               "230",
               "270",
               "290",
-              "260",
-              "260"
+              "110"
             ],
             "WindSpeed": [
+              "7",
               "6",
               "8",
               "8",
               "7",
               "6",
-              "7",
-              "8"
+              "7"
             ],
             "PercentRainCover": [
               "60",
+              "70",
               "60",
               "60",
-              "40",
-              "40",
+              "60",
               "60",
               "70"
             ],
@@ -7579,57 +7579,57 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Krabi",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "32.0",
+              "32.0",
               "33.0",
               "33.0",
               "32.0",
               "32.0",
-              "33.0",
-              "34.0"
+              "33.0"
             ],
             "MinimumTemperature": [
               "25.0",
+              "25.0",
               "24.0",
               "24.0",
               "25.0",
               "25.0",
-              "24.0",
-              "25.0"
+              "24.0"
             ],
             "WindDirection": [
-              "290",
+              "260",
+              "260",
               "270",
               "260",
               "270",
               "270",
-              "250",
-              "260"
+              "100"
             ],
             "WindSpeed": [
+              "7",
               "6",
               "8",
               "8",
               "7",
               "6",
-              "7",
-              "8"
+              "7"
             ],
             "PercentRainCover": [
               "60",
+              "70",
               "60",
               "60",
               "60",
-              "60",
-              "60",
+              "70",
               "70"
             ],
             "DescriptionThai": [
@@ -7693,57 +7693,57 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Trang",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "32.0",
               "32.0",
               "33.0",
               "34.0",
               "33.0",
               "33.0",
-              "32.0",
-              "33.0"
+              "32.0"
             ],
             "MinimumTemperature": [
-              "25.0",
               "24.0",
               "24.0",
               "25.0",
+              "24.0",
               "25.0",
               "24.0",
-              "24.0"
+              "23.0"
             ],
             "WindDirection": [
-              "290",
+              "260",
+              "260",
               "270",
               "260",
               "270",
               "270",
-              "250",
-              "260"
+              "100"
             ],
             "WindSpeed": [
+              "7",
               "6",
               "8",
               "8",
               "7",
               "6",
-              "7",
-              "8"
+              "7"
             ],
             "PercentRainCover": [
               "60",
+              "70",
               "60",
               "60",
               "60",
-              "60",
-              "60",
+              "70",
               "70"
             ],
             "DescriptionThai": [
@@ -7807,57 +7807,57 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Pang Nga",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "33.0",
               "32.0",
+              "32.0",
               "33.0",
               "32.0",
               "32.0",
-              "31.0",
               "32.0"
             ],
             "MinimumTemperature": [
+              "24.0",
               "25.0",
               "25.0",
               "25.0",
               "24.0",
-              "25.0",
-              "25.0",
-              "24.0"
+              "24.0",
+              "23.0"
             ],
             "WindDirection": [
-              "290",
+              "250",
+              "250",
               "270",
               "250",
               "260",
               "270",
-              "270",
-              "260"
+              "120"
             ],
             "WindSpeed": [
+              "6",
               "6",
               "8",
               "8",
               "7",
               "6",
-              "8",
-              "8"
+              "7"
             ],
             "PercentRainCover": [
               "60",
+              "70",
               "60",
               "60",
-              "40",
               "60",
-              "60",
+              "70",
               "70"
             ],
             "DescriptionThai": [
@@ -7921,55 +7921,55 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Satun",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "33.0",
               "32.0",
               "32.0",
               "33.0",
               "34.0",
               "33.0",
-              "32.0",
-              "33.0"
+              "32.0"
             ],
             "MinimumTemperature": [
               "25.0",
+              "24.0",
+              "24.0",
               "25.0",
               "25.0",
               "25.0",
-              "25.0",
-              "25.0",
-              "25.0"
+              "24.0"
             ],
             "WindDirection": [
-              "290",
+              "270",
+              "270",
               "260",
               "250",
               "260",
               "280",
-              "270",
-              "270"
+              "100"
             ],
             "WindSpeed": [
               "7",
               "7",
-              "6",
               "7",
               "6",
               "7",
-              "8"
+              "6",
+              "7"
             ],
             "PercentRainCover": [
               "60",
+              "70",
               "60",
               "60",
-              "40",
               "60",
               "60",
               "70"
@@ -8035,21 +8035,21 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Hatyai",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
+              "31.0",
+              "31.0",
               "32.0",
-              "32.0",
+              "34.0",
+              "34.0",
               "33.0",
-              "32.0",
-              "32.0",
-              "32.0",
               "32.0"
             ],
             "MinimumTemperature": [
@@ -8062,31 +8062,31 @@ export const WeatherForecast7Days = [
               "24.0"
             ],
             "WindDirection": [
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "240",
-              "90"
+              "120",
+              "120",
+              "90",
+              "90",
+              "90",
+              "120",
+              "120"
             ],
             "WindSpeed": [
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8",
-              "8"
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5"
             ],
             "PercentRainCover": [
               "60",
               "60",
-              "40",
               "60",
-              "70",
-              "70",
-              "70"
+              "40",
+              "40",
+              "40",
+              "60"
             ],
             "DescriptionThai": [
               "ฝนฟ้าคะนอง",
@@ -8131,19 +8131,19 @@ export const WeatherForecast7Days = [
           "ProvinceNameEnglish": "Bueng Kan",
           "SevenDaysForecast": {
             "ForecastDate": [
+              "20/10/2024",
               "19/10/2024",
               "18/10/2024",
               "17/10/2024",
               "16/10/2024",
               "15/10/2024",
-              "14/10/2024",
-              "13/10/2024"
+              "14/10/2024"
             ],
             "MaximumTemperature": [
               "31.0",
+              "31.0",
               "32.0",
               "33.0",
-              "34.0",
               "34.0",
               "34.0",
               "34.0"
@@ -8155,15 +8155,15 @@ export const WeatherForecast7Days = [
               "23.0",
               "23.0",
               "23.0",
-              "23.0"
+              "24.0"
             ],
             "WindDirection": [
+              "130",
               "130",
               "120",
               "120",
               "100",
               "100",
-              "90",
               "90"
             ],
             "WindSpeed": [
@@ -8171,17 +8171,17 @@ export const WeatherForecast7Days = [
               "8",
               "8",
               "8",
-              "9",
+              "8",
               "9",
               "9"
             ],
             "PercentRainCover": [
+              "30",
               "40",
               "30",
               "10",
               "10",
               "5",
-              "0",
               "0"
             ],
             "DescriptionThai": [
@@ -8190,7 +8190,7 @@ export const WeatherForecast7Days = [
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
               "ฝนฟ้าคะนอง",
-              "ท้องฟ้ามีเมฆบางส่วน",
+              "ฝนฟ้าคะนอง",
               "ท้องฟ้ามีเมฆบางส่วน"
             ],
             "DescriptionEnglish": [
@@ -8199,7 +8199,7 @@ export const WeatherForecast7Days = [
               "Heavy Rain",
               "Heavy Rain",
               "Heavy Rain",
-              "Partly Cloudy",
+              "Heavy Rain",
               "Partly Cloudy"
             ],
             "TemperatureThai": [
