@@ -35,7 +35,7 @@ const WeatherForecast = () => {
             </h2>
 
             {/* table พยากรณ์อากาศ */}
-            <div className="overflow-x-auto">
+            <div className="overflow-x-auto mb-4">
               <table className="w-full min-w-[640px] sm:min-w-[680px] border-collapse border border-gray-300 text-xs sm:text-sm lg:text-base">
                 <thead>
                   <tr>
