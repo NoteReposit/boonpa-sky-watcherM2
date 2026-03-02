@@ -1,8 +1,20 @@
-# React + Vite
+# 🌤️ Boonpa Sky Watcher (Weather Web Application)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive front-end web application. Built with **React.js** and styled using **Tailwind CSS**, this project aims to deliver a clean, fast, and user-friendly experience for checking weather conditions.
 
-Currently, two official plugins are available:
+### ✨ Key Features
+- **Location Search:** Easily search for weather conditions by city name.
+- **Responsive Design:** A fully responsive UI that looks great on both desktop and mobile devices, powered by Tailwind CSS.
+- **Clean Interface:** Minimalist and intuitive design for a seamless user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+### 🛠 Tech Stack
+- **Frontend Framework:** React.js
+- **Styling:** Tailwind CSS
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind" alt="React and Tailwind Icons" />
+  </a>
+</p>
